@@ -1,0 +1,9 @@
+.container-fluid {
+    background-color: var(--grey);
+    
+}
+
+.makewider {
+    width: 400px;
+}
+
